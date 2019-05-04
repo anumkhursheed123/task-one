@@ -1,0 +1,55 @@
+button{
+    margin : 20px;
+    padding: 5px;
+    font-size: 50px;
+}
+.btn{
+    background-color:#c63928 ;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #ed4d4f ;
+}
+.bbtn:hover{
+    cursor: pointer;
+    background-image: linear-gradient(#5cd1d3, #5cd1d5 ,#61d1cb , #9ad390, #97d291);
+}
+.bbtn{
+border-radius: 20px;
+background-image: linear-gradien(#5cd1d6,#60d0cc,#8fd499 ) ;
+cursor: pointer;
+
+}
+.two:hover{
+    cursor: pointer;
+    background-color: #6749ea ;
+}
+.two{
+    background-color:#ffffff ;
+    border-color:#673ab7;
+    color:#673ab7;
+}
+.three:hover{
+    cursor: pointer;
+    background-color: #2a61fb;
+}
+.three{
+    background-color:#fcd835 ;
+
+}
+.four:hover{
+    cursor: pointer;
+    background-color:#f38d31 ;
+}
+.four{
+    background-color: #f8be32;
+
+}
+.five:hover{
+    cursor: pointer;
+    background-color:#ffffff ;
+}
+.five{
+    background-color:#ffffff ;
+
+}
